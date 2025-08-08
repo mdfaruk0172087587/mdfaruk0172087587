@@ -31,24 +31,10 @@
 
 ---
 
-### 🌐 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdfaruk01720875872@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-faruk8/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/faruk5872a)  
-
----
-
 ### 📊 GitHub Stats  
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarfaruk&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=omarfaruk&theme=tokyonight)  
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Omar.
-</p>
-<p align='center'>For enquiries, reach out mdfaruk01720875872@gmail.com or over on <a href="https://facebook.com/faruk5872a">Facebook</a>.</p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faruk5872a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-faruk8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdfaruk01720875872@gmail.com) 
