@@ -29,13 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
----
-
-### 📊 GitHub Stats  
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarfaruk&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaruk&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=omarfaruk&theme=tokyonight)  
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faruk5872a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-faruk8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdfaruk01720875872@gmail.com) 
 
