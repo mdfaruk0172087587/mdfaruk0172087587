@@ -1,21 +1,11 @@
 [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Jhey.
+I'm Omar.
 </p>
 <p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
-## Hi there 👋
-- 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with Web Development
-- 💬 Ask me about Web Development
-- 📫 How to reach me: +8801720875872
-- 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I Love Code
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faruk5872a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-faruk8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdfaruk01720875872@gmail.com) 
