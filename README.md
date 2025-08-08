@@ -1,4 +1,4 @@
-[![Omar Faruk Banner](https://your-banner-image-link.com)](https://github.com/omarfaruk)  
+[![Omar Faruk Banner](https://raw.githubusercontent.com/mdfaruk0172087587/mdfaruk0172087587/main/github.PNG)](https://github.com/mdfaruk0172087587)  
 
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">Web Developer</h3>
